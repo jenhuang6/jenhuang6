@@ -1,12 +1,9 @@
 # Introducing Myself
 
-📍 Seattle
-
-📧 Email: [jen.jnhuang@gmail.com](jen.jnhuang@gmail.com)
-
-🔗 LinkedIn: [LinkedIn](www.linkedin.com/in/jennifer-huang-63a000259)
-
-👨‍💻 GitHub: [jenhuang6](www.github.com/jenhuang6)
+#### 📍 Seattle
+#### 📧 Email: [jen.jnhuang@gmail.com](jen.jnhuang@gmail.com)
+#### 🔗 LinkedIn: [LinkedIn](www.linkedin.com/in/jennifer-huang-63a000259)
+#### 👨‍💻 GitHub: [jenhuang6](www.github.com/jenhuang6)
 
 ## 🌐 About Me
 
