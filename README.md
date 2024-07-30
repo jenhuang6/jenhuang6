@@ -1,16 +1,26 @@
-## Hi there 👋
+# Introducing Myself
 
-<!--
-**jenhuang6/jenhuang6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Seattle
 
-Here are some ideas to get you started:
+📧Email: [jen.jnhuang@gmail.com](jen.jnhuang@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗LinkedIn: [LinkedIn](www.linkedin.com/in/jennifer-huang-63a000259)
+
+👨‍💻GitHub: [jenhuang6](www.github.com/jenhuang6)
+
+## 🌐 About Me
+
+👋 Hello, I am Jennifer. Applied math graduate with expertise in data analysis, statistical modeling and machine learning.
+
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my projects.
+
+(Still updating......)
+
+## 🛠️ Tools
+* Language: SQL, Python, R
+
+* Database: GCP, MySQL, AWS, Git
+
+* Visualization: Power BI, Tableau
